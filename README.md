@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![dhwi's GitHub stats](https://github-readme-stats.vercel.app/api?username=show0386&show_icons=true&theme=radical)
 <!--
 **show0386/show0386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
